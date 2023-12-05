@@ -17,7 +17,7 @@ $rs = mysqli_query($conn, $sql);
 
 if($rs>0)
 {
-	echo "YOU HAVE REGISTERED SUCCESSFULLY";
+	echo "<p style='color:green;'>YOU HAVE REGISTERED SUCCESSFULLY</p>";
 }
 
 ?>
