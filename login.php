@@ -9,7 +9,7 @@
     <h1>Login Page</h1>
     <form action="logindbase.php" method="POST">
         <label>Enter email here:</label>
-        <input type="text" name="l1"><br><hr>
+        <input type="email" name="l1"><br><hr>
         <label>Enter password here:</label>
         <input type="password" name="l2"><br><hr>
         <input type="submit" name="ap" value="LOGIN">
